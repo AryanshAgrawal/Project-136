@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-image: url('background.jpg');
+    background-size: cover;
+    }
+    .heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    }
+    button{
+    font-size: 18px;
+    margin-top: 10px;
+    }
+    #numberofobjects,#status{
+    font-size: 18px;
+    margin-top: 10px;
+    }
+    .objectlabel{
+    text-size-adjust: bold;
+    }
+    canvas{
+        box-shadow: 5px 15px 15px 15px white;
+        margin-top: 130px;
+        }
